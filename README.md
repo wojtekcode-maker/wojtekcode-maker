@@ -3,7 +3,7 @@
 ## About:
 I really love to programming especially in JavaScript frameworks. It gives me a lot of fun. Especially when I manage to solve a difficult problem. 👨‍💻
 
-## My main tech stack is:
+## Main tech stack is:
 * Node.js
 * Express.js
 * React.js
