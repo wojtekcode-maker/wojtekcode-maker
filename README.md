@@ -1,10 +1,16 @@
 # Hi, I'm Wojciech Domżał and I'm so glad you got here. 😎
-Currently I'm working at my first project write by me from the beginning to the end.
 
-***Effects will be soon***
+## About:
+I really love to programming especially in JavaScript frameworks. It gives me a lot of fun. Especially when I manage to solve a difficult problem. 👨‍💻
 
+## My main tech stack is:
+* Node.js
+* Express.js
+* React.js
+* Typescript
+* Handlebars
 
-<!---
-wojtekcode-maker/wojtekcode-maker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Recent projects:
+* [VLSM Calculator](https://github.com/wojtekcode-maker/vlsm-calc)
+
+### Thank you for your time. 💪
