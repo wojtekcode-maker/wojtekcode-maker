@@ -1,9 +1,9 @@
-# Hi, I'm Wojciech Domżał and I'm so glad you got here. 😎
+# Hi, I'm Wojciech Domżał nice to see you. 😎
 
 ## About:
-I really love to programming in JavaScript frameworks. It gives me a lot of fun. Especially when I manage to solve a difficult problem. 👨‍💻
+I really love to programming in JavaScript. It gives me a lot of fun. Especially when I manage to solve a difficult problem. 👨‍💻
 
-## Main tech stack:
+## Tech stack:
 * Node.js
 * Express.js
 * React.js
@@ -13,4 +13,4 @@ I really love to programming in JavaScript frameworks. It gives me a lot of fun.
 ## Recent projects:
 * [VLSM Calculator](https://github.com/wojtekcode-maker/vlsm-calc)
 
-### Thank you for your time. 💪
+### Thanks for your time. 💪
